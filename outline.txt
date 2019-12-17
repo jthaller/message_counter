@@ -1,0 +1,9 @@
+Classes: 2
+
+get_data
+ imports:
+	- beautiful soup
+	- pandas
+plot_data
+ imports:
+	- seaborn
